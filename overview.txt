@@ -1,0 +1,10 @@
+﻿+ What is JavaServer Pages?
+-> JavaServer Pages (JSP) is a technology for developing Webpages that supports dynamic content.
++ Why Use JSP?
+-> Performance is significantly better because JSP allows embedding Dynamic Elements in HTML Pages itself instead of having separate CGI files.
+-> JSP are always compiled before they are processed by the server unlike CGI/Perl which requires the server to load an interpreter and the target script each time the page is requested.
+-> JavaServer Pages are built on top of the Java Servlets API, so like Servlets, JSP also has access to all the powerful Enterprise Java APIs, including JDBC, JNDI, EJB, JAXP, etc.
+-> JSP pages can be used in combination with servlets that handle the business logic, the model supported by Java servlet template engines
+
++ References
+https://www.tutorialspoint.com/jsp/jsp_architecture.htm
