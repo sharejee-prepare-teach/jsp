@@ -1,4 +1,5 @@
 ﻿+ What is JavaServer Pages?
+-> JSP stand for JavaServer Pages
 -> JavaServer Pages (JSP) is a technology for developing Webpages that supports dynamic content.
 + Why Use JSP?
 -> Performance is significantly better because JSP allows embedding Dynamic Elements in HTML Pages itself instead of having separate CGI files.
